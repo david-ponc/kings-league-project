@@ -1,5 +1,33 @@
 [
   {
+    "role": "FernandãoDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "saiyans-fc-Saiyans_6.webp",
+    "name": " ",
+    "id": "saiyans-fc-Saiyans_6",
+    "team": {
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/saiyans-fc-inverse.svg"
+    }
+  },
+  {
+    "role": "EzequielDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "aniquiladores-fc-Aniquiladores_28.webp",
+    "name": " ",
+    "id": "aniquiladores-fc-Aniquiladores_28",
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
+    }
+  },
+  {
     "role": "RonaldinhoMedio",
     "firstName": "",
     "lastName": "",
@@ -336,20 +364,6 @@
     }
   },
   {
-    "role": "JaviMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "pio-fc-5.webp",
-    "name": " ",
-    "id": "pio-fc-5",
-    "team": {
-      "id": "pio-fc",
-      "name": "PIO FC",
-      "image": "https://kingsleague.dev/teams/logos/pio.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg"
-    }
-  },
-  {
     "role": "RubénMedio",
     "firstName": "",
     "lastName": "",
@@ -420,6 +434,20 @@
     }
   },
   {
+    "role": "JaviMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "pio-fc-5.webp",
+    "name": " ",
+    "id": "pio-fc-5",
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "https://kingsleague.dev/teams/logos/pio.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg"
+    }
+  },
+  {
     "role": "SergioDelantero",
     "firstName": "",
     "lastName": "",
@@ -451,9 +479,9 @@
     "role": "JaviDefensa",
     "firstName": "",
     "lastName": "",
-    "image": "kunisports-17.webp",
+    "image": "kunisports-Kunisports_30.webp",
     "name": " ",
-    "id": "kunisports-17",
+    "id": "kunisports-Kunisports_30",
     "team": {
       "id": "kunisports",
       "name": "Kunisports",
